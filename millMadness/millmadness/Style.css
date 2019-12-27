@@ -1,0 +1,240 @@
+html {
+    background-color: ;
+    border-right-style: dashed;
+    border-left-style: dashed;
+    border-color: maroon;
+}
+
+p {
+    font-family: "trebuchetms", sans-serif;
+    color: lightcyan;
+}
+
+a {
+    text-align: center;
+
+}
+h1 {
+   font-family: "verdana", sans-serif;
+    text-align: center;
+    
+}
+#titleheaders {
+    font-family: "lucidaconsole"
+    text-align: center;
+    color: #C2AE4B;
+    border: 3px solid black;
+    margin-left: 350px;
+    margin-right: 350px;
+    
+    
+}
+#welcImage {
+    border-style: solid;
+}
+h2 {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+    color: maroon;
+}
+#headabout {
+     font-family: "verdana", sans-serif;
+    text-align: center;
+}
+#2ndheadabout {
+     font-family: "verdana", sans-serif;
+    text-align: center;
+}
+#headertext {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px dotted grey;
+    background-clip: padding-box;
+    color: lightcyan;
+    position: sticky;
+   
+}
+#indexdiv {
+    font-family: "impact", sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color: #C2AE4B;
+    
+    border: 10px solid maroon;
+}
+#bodydiv {
+    height: 1800px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid darkslategrey;
+    background-color: lightslategrey;
+    
+}
+#headerdiv {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center:
+    height: 20px;
+    width: 30%;
+    border: 6px dotted grey;
+    background-clip: padding-box;
+    font-size: 50px;
+}
+#hello {
+    color: aliceblue;
+}
+div {
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo {
+    float: left;
+}
+#1 {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+}
+#1a {
+    align-content: center;
+    
+}
+
+#welcDiv {
+    border-style: solid;
+    border-color: maroon;
+    background-color: #C2AE4B;
+}
+#biographydiv {
+     background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    
+}
+#eventsDiv {
+    float: left;
+    background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    width: 40%;
+    height: 600px;
+}
+#postcommentDiv {
+    float: left;
+    background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    width:20%; 
+    height:600px; 
+    
+}
+#rightEventsBox {
+    float: left;
+    background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    width:30%; 
+    height: 600px; 
+}
+#rightdiv {
+    width: 400px; 
+    float: right; 
+    height:480px; 
+    background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    margin:40px;
+    margin-top: 0px;
+}
+#indexwelc {
+    font-family: "verdana", sans-serif;
+}
+#body_bg {
+    text-align: center;
+    color:black;
+    background-color: white;    
+}
+#login-form {
+    color: black;
+   font-family: "verdana", sans-serif;
+    border-style: solid;
+    border-color: maroon;
+    background-color: #C2AE4B;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#welcInfo {
+    border-color: maroon;
+}
+#commentsubform {
+    text-align: right;
+    margin-right: 6%;
+    font-family: "verdana", sans-serif;
+}
+#subheadTitle{
+   text-align: left;
+    font-family: "verdana", sans-serif;
+}
+#eventTitle {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+    color: maroon;
+    border: 4px solid black;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#commentBox {
+    font-family: "verdana", sans-serif;
+    text-align: left;
+    font-size: 12px;
+    color: black;
+}
+#dateBox {
+    text-align: left;
+    color: lightslategray
+}
+.grid-container {
+    background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+  display: grid;
+  grid-template-columns:auto auto auto;
+    
+  min-height: 0;  /* NEW */
+  min-width: 0; 
+  padding: 10px;
+}
+.grid-item {
+   
+  border: 5px solid rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  
+  overflow: hidden; 
+  min-width: 0; 
+}
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+.searchTerm {
+  width: 100%;
+  border: 3px solid #C2AE4B;
+  
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: maroon;
+}
+.wrap{
+  width: 30%;
+  position: absolute;
+
+  left: 15%;
+  transform: translate(-50%, -50%);
+}
+    

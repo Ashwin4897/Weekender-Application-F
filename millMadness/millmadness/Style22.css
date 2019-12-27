@@ -1,0 +1,114 @@
+html {
+    background-color: white;
+}
+
+p {
+    font-family: "trebuchetms", sans-serif;
+    color: lightcyan;
+}
+a {
+    text-align: center;
+
+}
+h1 {
+   font-family: "verdana", sans-serif;
+    text-align: center;
+    
+}
+#titleheaders {
+    font-family: "impact", sans-serif;
+    text-align: center;
+    color: #C2AE4B;
+    
+}
+h2 {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+    color: maroon;
+}
+#headabout {
+     font-family: "verdana", sans-serif;
+    text-align: center;
+}
+#2ndheadabout {
+     font-family: "verdana", sans-serif;
+    text-align: center;
+}
+#headertext {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px dotted grey;
+    background-clip: padding-box;
+    color: lightcyan;
+    position: sticky;
+   
+}
+#indexdiv {
+    font-family: "impact", sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color: #C2AE4B;
+    
+    border: 10px solid maroon;
+}
+#bodydiv {
+    height: 1800px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid darkslategrey;
+    background-color: lightslategrey;
+    
+}
+#headerdiv {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center:
+    height: 20px;
+    width: 30%;
+    border: 6px dotted grey;
+    background-clip: padding-box;
+    font-size: 50px;
+}
+#hello {
+    color: aliceblue;
+}
+div {
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+#1 {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+}
+#1a {
+    align-content: center;
+    
+}
+#indeximg {
+     float: left;
+    margin-left: 50px;
+}
+#biographydiv {
+     background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    
+}
+#rightdiv {
+    width: 400px; 
+    float: right; 
+    height:480px; 
+    background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    margin:40px;
+    margin-top: 0px;
+}
+#indexwelc {
+    font-family: "verdana", sans-serif;
+}
+    

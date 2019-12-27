@@ -1,0 +1,225 @@
+html {
+    background-color: ;
+    border-right-style: dashed;
+    border-left-style: dashed;
+    border-color: maroon;
+}
+
+p {
+    font-family: "trebuchetms", sans-serif;
+    color: lightcyan;
+}
+
+a {
+    text-align: center;
+
+}
+h1 {
+   font-family: "verdana", sans-serif;
+    text-align: center;
+    
+}
+#titleheaders {
+    font-family: "lucidaconsole"
+    text-align: center;
+    color: #C2AE4B;
+    border: 3px solid black;
+    margin-left: 350px;
+    margin-right: 350px;
+    
+    
+}
+#welcImage {
+    border-style: solid;
+}
+h2 {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+    color: maroon;
+}
+#headabout {
+     font-family: "verdana", sans-serif;
+    text-align: center;
+}
+#2ndheadabout {
+     font-family: "verdana", sans-serif;
+    text-align: center;
+}
+#headertext {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px dotted grey;
+    background-clip: padding-box;
+    color: lightcyan;
+    position: sticky;
+   
+}
+#indexdiv {
+    font-family: "impact", sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color: #C2AE4B;
+    
+    border: 10px solid maroon;
+}
+#bodydiv {
+    height: 1800px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid darkslategrey;
+    background-color: lightslategrey;
+    
+}
+#headerdiv {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center:
+    height: 20px;
+    width: 30%;
+    border: 6px dotted grey;
+    background-clip: padding-box;
+    font-size: 50px;
+}
+#hello {
+    color: aliceblue;
+}
+div {
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo {
+    float: left;
+}
+#1 {
+    font-family: "verdana", sans-serif;
+    text-align: center;
+}
+#1a {
+    align-content: center;
+    
+}
+
+#welcDiv {
+    border-style: solid;
+    border-color: maroon;
+    background-color: #C2AE4B;
+    text-align: center;
+    
+}
+#biographydiv {
+     background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    
+    
+}
+#rightdiv {
+    width: 400px; 
+    float: right; 
+    height:480px; 
+    background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    margin:40px;
+    margin-top: 0px;
+}
+#indexwelc {
+    font-family: "verdana", sans-serif;
+}
+#body_bg {
+    text-align: center;
+    color:black;
+    background-color: white;    
+}
+#login-form {
+    color: black;
+   font-family: "verdana", sans-serif;
+    border-style: solid;
+    border-color: maroon;
+    background-color: #C2AE4B;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#welcInfo {
+     background: #C2AE4B;
+   
+   float: right;
+    
+   
+    text-align: center;
+}
+
+#wrapper {
+  
+  
+     background: #C2AE4B;
+    border-style: solid;
+    border-color: maroon;
+    
+}
+#details {
+ 
+  width:200px;
+  float:left;
+}
+#insertComment {
+  
+  width:300px;
+  float:left;
+}
+#postComment {
+  
+  width:200px;
+  float:left;
+}
+
+.search-box
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #2f3640;
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+}
+.search-btn
+{
+    color: #e84118;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #2f3640;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s
+}
+.search-txt{
+    border:none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 0px;
+    padding: 10px;
+}
+.search-box:hover >  .search-txt{
+    width: 240px;
+    padding: 0 6px;
+}
+.search-box:hover > .search-btn{
+    background: white;
+}
+
+    
